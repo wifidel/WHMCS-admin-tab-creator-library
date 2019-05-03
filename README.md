@@ -33,7 +33,7 @@ add_hook("AdminAreaFooterOutput", 10, function($vars){
         $('#my_tab_name').click(); //switch to tab
       }
       
-    });
+    
     </script>";
   }
 
